@@ -4,3 +4,4 @@ A modular control system application for showing and interacting with the system
 # Link to Github WIKI
 
 # Link to Github repository
+https://github.com/Sub-Horizon-NTNU/ControlStationApplication
