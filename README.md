@@ -5,3 +5,5 @@ A application for showing and interacting with the systems of a ROV or boat.
 https://github.com/Sub-Horizon-NTNU/ControlStationApplication/wiki
 # Link to Github repository
 https://github.com/Sub-Horizon-NTNU/ControlStationApplication
+#Link Kanban Board
+https://github.com/orgs/Sub-Horizon-NTNU/projects/3
